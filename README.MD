@@ -1,4 +1,4 @@
-# Project Title
+# Railway Manager
 
 This is a railway network flow analysis tool that provides information about railway networks.
 It also uses the Ford-Fulkerson algorithm to calculate maximum flow in a network. The network data is read from CSV files located in the `dataset` directory.
